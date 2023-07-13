@@ -3,7 +3,7 @@
 ## Overview
 
 > **Figure 1:** Overview of CAESAR.
-<img width="650" src="caesar.png">
+<img width="1080" src="caesar.png">
 
 
 ## How to cite?
