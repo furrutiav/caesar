@@ -1,5 +1,10 @@
 # caesar
 **C**omprehensible and **A**utomated **E**ntity Linking of **S**cholarly Terms for **A**cademic **R**epresentation
+## Overview
+
+> **Figure 1:** Overview of CAESAR.
+<img width="650" src="caesar.png">
+
 
 ## How to cite?
 ```
